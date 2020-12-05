@@ -1,14 +1,13 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-        apiKey: "AIzaSyCJUGYTve5WJr3sQU9iVCm6XAibbHEqYZc",
-        authDomain: "imessage-clone-cc9a4.firebaseapp.com",
-        databaseURL: "https://imessage-clone-cc9a4.firebaseio.com",
-        projectId: "imessage-clone-cc9a4",
-        storageBucket: "imessage-clone-cc9a4.appspot.com",
-        messagingSenderId: "36089156298",
-        appId: "1:36089156298:web:345ad4be61973528ef5a33",
-        measurementId: "G-D5E9ZRMT9B"
+    apiKey: "AIzaSyBkOHXnvowuTeQYSCqXXn2irWS3rknYSGo",
+    authDomain: "imessage-cloned-b8e28.firebaseapp.com",
+    projectId: "imessage-cloned-b8e28",
+    storageBucket: "imessage-cloned-b8e28.appspot.com",
+    messagingSenderId: "5803393794",
+    appId: "1:5803393794:web:86e661d7c9d0ffe29e381b",
+    measurementId: "G-L457G5F66V"
     };
 
     const firebaseApp = firebase.initializeApp(firebaseConfig);
